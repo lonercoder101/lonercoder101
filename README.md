@@ -31,9 +31,14 @@ Doing Nothing
 	</ul>	
 </details>
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lonercoder101&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonercoder101&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
-
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=lonercoder101&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonercoder101&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
+>
 
 ----
