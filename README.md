@@ -21,9 +21,9 @@ Doing Nothing
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Windows 10 / Ubuntu 18.04 </li>
-	    <li><b>Laptop: </b> A random Monitor connected to a dying laptop </li>
+	    <li><b>Laptop: </b> You </li>
   	    <li><b>Browser: </b> Chrome </li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh </li>
+	    <li><b>Terminal: </b> Powershell </li>
 	    <li><b>Code Editor:</b> Sublime Text </li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
